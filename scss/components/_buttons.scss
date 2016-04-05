@@ -1,0 +1,14 @@
+#random {
+	width: 150px;
+}
+
+#restart {
+	display: none;
+	margin-bottom: 20px;
+	width: 100px;
+	margin: 0 auto;
+	&:hover {
+		cursor: pointer;
+	}
+}
+
